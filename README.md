@@ -5,11 +5,13 @@ Tools and components used in software development
 
 - [JetBrains WebStorm](https://www.jetbrains.com/webstorm/)
 - [Typora](https://typora.io)
+- [Sketch](https://www.sketch.com)
 
 ### Online services
 
 - [Color Hexa](https://www.colorhexa.com/c52f2f)
-- [CodeSandbox])https://codesandbox.io)
+- [CodeSandbox](https://codesandbox.io)
+- [Regex 101](https://regex101.com)
 
 ### Fonts
 
